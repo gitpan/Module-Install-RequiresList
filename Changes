@@ -1,5 +1,6 @@
----
-version: 0.10
-date:    
-changes:
-- First Release
+0.11 Wed Aug 13 22:41:27 PDT 2014
+ - Switch to Zilla-Dist
+
+0.10 n/a
+ - First Release
+
