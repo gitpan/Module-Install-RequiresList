@@ -9,5 +9,4 @@ Makefile.PL
 README
 lib/Module/Install/RequiresList.pm
 lib/Module/Install/RequiresList.pod
-t/000-compile-modules.t
 t/release-pod-syntax.t
