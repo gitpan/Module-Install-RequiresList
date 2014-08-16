@@ -26,7 +26,7 @@ my %WriteMakefileArgs = (
     "Module::Install" => "1.10",
     "Template::Toolkit::Simple" => "0.13"
   },
-  "VERSION" => "0.11",
+  "VERSION" => "0.12",
   "test" => {
     "TESTS" => "t/*.t"
   }

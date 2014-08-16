@@ -1,3 +1,7 @@
+0.12 Fri Aug 15 16:05:00 PDT 2014
+ - Add t/000-compile-modules.t
+ - CPAN Day 2014 - 21 Release Salute!
+
 0.11 Wed Aug 13 22:41:27 PDT 2014
  - Switch to Zilla-Dist
 
